@@ -60,6 +60,8 @@ public class AulaTresAlgoritimo {
 		angulo = in.nextDouble();
 		s = Math.sin(Math.toRadians(angulo));
 		System.out.printf("O seno de %.1f é igual a: %.2f ", angulo, s);
+		
+		in.close();
 	}
 
 }

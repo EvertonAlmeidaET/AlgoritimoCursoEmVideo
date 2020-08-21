@@ -30,6 +30,8 @@ public class triangulos {
 		System.out.println("O tringulo é ESCALENO? " + es);
 		System.out.println("Pode formar um triangulo? " + tri);
 		
+		in.close();
+		
 	}
 
 }

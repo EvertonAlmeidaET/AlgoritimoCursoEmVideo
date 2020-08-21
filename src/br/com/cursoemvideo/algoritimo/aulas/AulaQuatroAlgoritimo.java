@@ -50,6 +50,8 @@ public class AulaQuatroAlgoritimo {
 		//!=Inverte o valor A é igual a B OU C é maior que A
 		System.out.println(!((a==b) || (c>a)));
 		
+		in.close();
+		
 	}
 
 }
