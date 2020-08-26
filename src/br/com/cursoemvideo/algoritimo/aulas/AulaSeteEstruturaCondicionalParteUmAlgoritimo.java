@@ -2,7 +2,7 @@ package br.com.cursoemvideo.algoritimo.aulas;
 
 import java.util.Scanner;
 
-public class AulaSeteAlgoritimo {
+public class AulaSeteEstruturaCondicionalParteUmAlgoritimo {
 	
 	public static void main(String[] args) {
 		
